@@ -1,0 +1,8 @@
+.todos .completed {
+  color: #aaa !important;
+  text-decoration: line-through !important;
+}
+
+p {
+  display: inline;
+}
